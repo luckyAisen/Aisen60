@@ -4,9 +4,9 @@ An Introverted Boy,A Website Developer
 ## PROJECT
 
 [![Blog][blog]][blog link]
-[![Diary][diary]][diary link]
+[![yu][yu]][yu link]
 [![React Realworld][react-realworld]][realworld link]
-[![Gulp Page][gulp-page]][gulp page link]
+<!-- [![Gulp Page][gulp-page]][gulp page link] -->
 
 
 ## MY SKILL
@@ -46,8 +46,8 @@ An Introverted Boy,A Website Developer
 
 [blog]: https://img.shields.io/github/stars/aisen60/blog?label=blog&logo=github&style=flat-square "Blog Project"
 [blog link]: https://github.com/Aisen60/blog "Blog Link"
-[diary]: https://img.shields.io/github/stars/aisen60/diary?label=diary&logo=github&style=flat-square "Diary Project"
-[diary link]: https://github.com/Aisen60/diary "Diary Link"
+[yu]: https://img.shields.io/github/stars/aisen60/yu?label=yu&logo=github&style=flat-square "yu Project"
+[yu link]: https://github.com/Aisen60/yu "YU Link"
 [react-realworld]: https://img.shields.io/github/stars/aisen60/react-redux-realworld-example-app?label=react-realworld&logo=github&style=flat-square "React Realworld Project"
 [realworld link]: https://github.com/Aisen60/react-redux-realworld-example-app "realworld Link"
 [gulp-page]: https://img.shields.io/github/stars/aisen60/gulp-page?label=gulp-page&logo=github&style=flat-square "Gulp Page Project"
