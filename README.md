@@ -25,16 +25,3 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=aisen60&show_icons=true&count_private=true">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisen60">
 </p>
-
-### ⭐️ My Repo
-
-<div>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aisen60&repo=blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aisen60&repo=react-redux-realworld-example-app">
-  </p>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aisen60&repo=express-ts-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aisen60&repo=gulp-page">
-  </p>
-</div>
