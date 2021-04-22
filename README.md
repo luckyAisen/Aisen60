@@ -21,7 +21,6 @@
 
 ### 📊  Statistics
 
-<p align = "center">
-	<img src="https://github-readme-stats.vercel.app/api?username=aisen60&show_icons=true&count_private=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aisen60">
+<p>
+<img  align="left" src="https://github-readme-stats.vercel.app/api?username=aisen60&show_icons=true&hide_border=true">
 </p>
