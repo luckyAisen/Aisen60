@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 - 👷I’m currently a website developer working on in shenzhen chian
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MySQL
+- 📚 I’m currently learning  backend web development using NodeJS, Nestjs, MySQL and Redis
 - 💬 You can ask me anything about frontend through email , I’m be happy to discuss it with you
 - 📫 How to reach me: caixusheng60@gmail.com
 - 😄 My website: http://caixusheng.com
