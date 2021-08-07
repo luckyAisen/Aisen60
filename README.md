@@ -1,26 +1,16 @@
 ### Hi 👋 ![visitor](https://visitor-badge.glitch.me/badge?page_id=aisen60)
 
-### 👨🏻‍💻 About Me
+a website developer, ShenZhen, China
 
-- 👷I’m currently a website developer working on in shenzhen chian
-- 📚 I’m currently learning  backend web development using Python,Tornado
-- 💬 You can ask me anything about frontend through email , I’m be happy to discuss it with you
-- 📫 How to reach me: caixusheng60@gmail.com
-- 😄 My website: http://caixusheng.com
-
-
-### 🛠 Some Tech Stack
-
-- 💻	NodeJs | TypeScript | HTML5 | CSS3
-- 📌	Vue | Uniapp | react
-- 💅    Scss | Less | Stylus | PostCss
-- ⚙    Gulp | Webpack | Gitlab CI | Github Actions
-- 🔧    Git | Visual Studio Code | WebStorm
-- 🖥    MacOs | Windows
-
-
-### 📊  Statistics
-
-<p>
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=aisen60&show_icons=true&hide_border=true">
-</p>
+<div style="display:flex">
+  <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/36/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/36/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/ios-filled/36/4a90e2/jquery.png"/>
+  <img src="https://img.icons8.com/color/36/4a90e2/nodejs.png"/>
+  <img src="https://img.icons8.com/ios-filled/36/4a90e2/typescript.png"/>
+  <img src="https://img.icons8.com/color/36/000000/vue-js.png"/>
+  <img src="https://img.icons8.com/color/36/000000/react-native.png"/>
+  <img src="https://img.icons8.com/windows/36/fa314a/gulp.png"/>
+  <img src="https://img.icons8.com/color/36/fa314a/webpack.png"/>
+</div>
