@@ -1,6 +1,6 @@
 ### Hi 👋 ![visitor](https://visitor-badge.glitch.me/badge?page_id=aisen60)
 
-a website developer, ShenZhen, China
+Front End Developer, ShenZhen, China
 
 <div style="display:flex">
   <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>
